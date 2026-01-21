@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Po-An Shih (柏安) 👋
 
-<!--
-**poandev/poandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Full-Stack Engineer** with 5-6 years of experience in web development. I focus on building scalable web applications and integrating AI solutions to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** TypeScript, JavaScript, Next.js, Flutter (PWA), Tailwind CSS
+- **Backend:** Python (FastAPI), PHP (Laravel/ASP), Node.js
+- **Database:** SQL (PostgreSQL/MySQL), MongoDB
+- **Tools:** Docker, Git, Notion API, Gemini AI
+
+### 🚀 Featured Projects
+
+- **[Success OS]** - An AI-powered personal growth system integrating finance, health, and productivity. (Built with FastAPI & Flutter)
+
+### 📫 Connect with me
+- 💼 [LinkedIn](你的連結)
+- ✉️ [Email](你的Email)
+
+---
+*“Logic will get you from A to B. Imagination will take you everywhere.”*
